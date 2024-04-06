@@ -1,0 +1,60 @@
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 30px;
+    font-family: 'Arial', sans-serif; 
+    background-color: lightsteelblue;    
+}
+
+p {
+    color :rgb(91, 63, 158);
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+}
+
+h2 {
+ color: darkslateblue;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+h3 {
+    color: darkslateblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h4 {
+    color: darkslateblue;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#contacto{
+    border-style:double;
+    border-color: darkcyan;
+    margin:auto;
+}
+
+#fotos{
+    margin: auto;
+    padding: 5px;
+}
+
+dt{
+    color:rgb(91, 63, 158);
+}
+
+label{
+    color:rgb(91, 63, 158);
+    font-weight: bolder;
+    font-size: 14;
+}
+
+img {
+    display: block;
+    width: 80%;
+    margin: auto;
+    border-style: ridge;
+    border-color: black;
+}
